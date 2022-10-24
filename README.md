@@ -5,19 +5,19 @@
 A few models in the notebook require that it is run using GPU runtime.
 The datasets, drug_SMILES_750.csv and data1.txt must be loaded into the /content folder
 
-*Libraries*
+**Libraries**
 networkx : bipartite, degree_centrality, closeness_centrality, betweenness_centrality, projected_graph
-matplotlib
-nxviz : CircosPlot
-torch
-torch_geometric : RandomLinkSplit, GCNConv, negative_sampling,
-sklearn : StandardScaler, roc_auc_score,
-torchdrug : datasets, core, models, tasks
+matplotlib  
+nxviz : CircosPlot  
+torch  
+torch_geometric : RandomLinkSplit, GCNConv, negative_sampling  
+sklearn : StandardScaler, roc_auc_score  
+torchdrug : datasets, core, models, tasks  
 
-*Installations with versions*
-nxviz : nxviz-0.7.4-py3-none-any.whl
-cuda version installed : 1.11.0+cu113
-torch-scatter : 1.4.0
-torch-sparse
-pubchempy : PubChemPy-1.0.4.
-torchdrug : torchdrug-0.1.2.post1-py3-none-any.whl
+**Installations with versions**
+nxviz : nxviz-0.7.4-py3-none-any.whl  
+cuda version installed : 1.11.0+cu113  
+torch-scatter : 1.4.0  
+torch-sparse  
+pubchempy : PubChemPy-1.0.4.  
+torchdrug : torchdrug-0.1.2.post1-py3-none-any.whl  
