@@ -1,6 +1,6 @@
 # Prediction of drug side effects by observing similar sub-classes in the molecular structure of drugs
 
-*Requirements before running the Notebook*
+**Requirements before running the Notebook**
 
 A few models in the notebook require that it is run using GPU runtime.
 The datasets, drug_SMILES_750.csv and data1.txt must be loaded into the /content folder
