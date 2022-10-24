@@ -1,5 +1,11 @@
 # Prediction of drug side effects by observing similar sub-classes in the molecular structure of drugs
 
+Team - 
+Kshitij Prit Gopali  
+Mrudhulraj Natarajan PES1UG19CS281  
+Navya Eedula PES1UG19CS293 Section  
+Sarthak Deva PES1UG19CS433 Section  
+
 **Requirements before running the Notebook**  
 
 A few models in the notebook require that it is run using GPU runtime.  
