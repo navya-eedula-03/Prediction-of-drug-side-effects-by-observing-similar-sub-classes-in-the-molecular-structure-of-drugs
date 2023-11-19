@@ -1,0 +1,14 @@
+cff-version: 1.0.0
+message: "Github Citation"
+authors:
+  - family-names: Gopali
+    given-names: Kshitij
+  - family-names: Natrajan
+    given-names: Mrudhulraj
+  - family-names: Eedula
+    given-names: Navya
+  - family-names: Deva
+    given-names: Sarthak
+title: "Prediction of Drug Side-Effects by Observing Similar Sub-Classes in the Molecular Structure of Drugs"
+version: 1.0.0
+date-released: 2022-10-23
